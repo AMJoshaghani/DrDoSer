@@ -34,7 +34,7 @@ class Ui:
         'bye': 'Bye!',
         'introText': """
 Hello,
-You can use this script for making a DDoS (or Strongly, DrDoS) attak on a server.
+You can use this script for making a DDoS (or Strongly, DrDoS) attack on a server.
 
 \"we're irresponsible about this script\"
 """
